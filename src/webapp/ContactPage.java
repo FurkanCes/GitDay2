@@ -4,4 +4,7 @@ public class ContactPage {
     //facebook
     //twitter
 
+    //youtube
+    //instaram
+
 }
