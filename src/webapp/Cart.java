@@ -5,4 +5,6 @@ public class Cart {
     //chart
     //total
     //promo code
+
+    //deals
 }
