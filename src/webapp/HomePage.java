@@ -8,4 +8,6 @@ public class HomePage {
 
     //search icon
 
+    //sync of images to pages done
+
 }
