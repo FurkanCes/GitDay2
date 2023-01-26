@@ -10,4 +10,6 @@ public class HomePage {
 
     //sync of images to pages done
 
+    //footer
+
 }
